@@ -10,9 +10,9 @@ chimera66@gmail.com
 
 ####WORK EXPERIENCE
 
-![UW Medicine](https://github.com/songhyem/myfirst/blob/master/uw.png)  
+[![Northwest Hospital Geropsychiatric Center](https://github.com/songhyem/myfirst/blob/master/uw.png)](http://nwhospital.org/services/gero_inpatient.asp) 
 >**Senior Social Worker**  
-[Northwest Hospital Geropsychiatric Center](http://nwhospital.org/services/gero_inpatient.asp)  
+ 
 Position started as contracted employee via Horizon Health; converted to one at Northwest Hospital in 7/14      
 Jyly 2014 - present | Seattle, WA    
 
