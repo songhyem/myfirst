@@ -10,9 +10,9 @@ chimera66@gmail.com
 
 ####WORK EXPERIENCE
 
+![UW Medicine](https://github.com/songhyem/myfirst/blob/master/uw.png)  
 >**Senior Social Worker**  
 [Northwest Hospital Geropsychiatric Center](http://nwhospital.org/services/gero_inpatient.asp)
-![UW Medicine](http://github.com/songhyem/myfirst/uw.png)   
 Position started as contracted employee via Horizon Health; converted to one at Northwest Hospital in 7/14      
 Jyly 2014 - present | Seattle, WA    
 
@@ -27,16 +27,16 @@ Jyly 2014 - present | Seattle, WA
      -Mandatory elder abuse/neglect reporting  
      -Completing required documentation in a timely manner 
 
+![Horizon Health](https://github.com/songhyem/myfirst/blob/master/horizon.jpg) 
 >**Contracted Senior Social Worker**  
 [Horizon Health](http://www.horizonhealth.com/index.php/consulting/)  
-![Horizon Health](http://github.com/songhyem/myfirst/horizon.png)  
 July 2012 - June 2014 | Seattle, WA    
 
      -Job Descriptions are the same as above  
     
+![NAVOS Mental Health Solutions](https://github.com/songhyem/myfirst/blob/master/navos.png) 
 >**Geriatric Mental Health Specialist**  
 [NAVOS Mental Health Solutions](http://www.navos.org/outpatient-programs/older-adult)    
-![NAVOS Mental Health Solutions](http://github.com/songhyem/myfirst/navos.png)  
 Jyly 2008 - July 2013 | West Seattle, WA    
 
      -Completed comprehensive biopsychosocial Assessment    
@@ -47,9 +47,9 @@ Jyly 2008 - July 2013 | West Seattle, WA
      -Provided crisis interventions for nursing home staff after hours and at weekends
      -Completed all routine and mandatory paperwork in a timely manner     
 
+![Sparrow Senior Health Center](https://github.com/songhyem/myfirst/blob/master/sparrow.gif)
 >**Medical Social Worker Intern**    
 [Sparrow Senior Health Center](http://www.sparrow.org/seniorservices)
-![Sparrow Senior Health Center](http://github.com/songhyem/myfirst/sparrow.png)  
 Aug 2007 - April 2008 | East Lansing, MI
 
      -Provided geriatric care needs assessments  
@@ -57,9 +57,9 @@ Aug 2007 - April 2008 | East Lansing, MI
      -Offered advocacy for populations at risk and their informal caregivers  
      -Evaluated assessment tools at the clinic with survey, interview, and data analysis skills  
 
+![Mclaren Greater Lansing](https://github.com/songhyem/myfirst/blob/master/mclaren.jpg) 
 >**Medical Social Worker Intern**  
 [McLaren Greater Lansing](http://www.mclaren.org/lansing/Lansing.aspx)  
-![Mclaren Greater Lansing](http://github.com/songhyem/myfirst/mclaren.png)  
 Aug. 2007 - April. 2008 | Lansing, MI  
 
      -Completed biopsychosocial assessment
