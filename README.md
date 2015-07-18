@@ -12,7 +12,7 @@ chimera66@gmail.com
 
 ![UW Medicine](https://github.com/songhyem/myfirst/blob/master/uw.png)  
 >**Senior Social Worker**  
-[Northwest Hospital Geropsychiatric Center](http://nwhospital.org/services/gero_inpatient.asp)
+[Northwest Hospital Geropsychiatric Center](http://nwhospital.org/services/gero_inpatient.asp)  
 Position started as contracted employee via Horizon Health; converted to one at Northwest Hospital in 7/14      
 Jyly 2014 - present | Seattle, WA    
 
@@ -27,7 +27,7 @@ Jyly 2014 - present | Seattle, WA
      -Mandatory elder abuse/neglect reporting  
      -Completing required documentation in a timely manner 
 
-![Horizon Health](https://github.com/songhyem/myfirst/blob/master/horizon.jpg) 
+![Horizon Health](https://github.com/songhyem/myfirst/blob/master/horizon.jpg)
 >**Contracted Senior Social Worker**  
 [Horizon Health](http://www.horizonhealth.com/index.php/consulting/)  
 July 2012 - June 2014 | Seattle, WA    
@@ -59,7 +59,7 @@ Aug 2007 - April 2008 | East Lansing, MI
 
 ![Mclaren Greater Lansing](https://github.com/songhyem/myfirst/blob/master/mclaren.jpg) 
 >**Medical Social Worker Intern**  
-[McLaren Greater Lansing](http://www.mclaren.org/lansing/Lansing.aspx)  
+[McLaren Greater Lansing](http://www.mclaren.org/lansing/Lansing.aspx)    
 Aug. 2007 - April. 2008 | Lansing, MI  
 
      -Completed biopsychosocial assessment
