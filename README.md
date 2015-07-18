@@ -58,10 +58,10 @@ Aug 2007 - April 2008 | East Lansing, MI
 [McLaren Greater Lansing](http://www.mclaren.org/lansing/Lansing.aspx)      
 Aug. 2007 - April. 2008 | Lansing, MI  
 
-    -Completed biopsychosocial assessment
-    -Provided short-term supportive care planning upon discharge
-    -Provided information on social services and made referrals
-    -Reported to protective services and documented assessments
+     -Completed biopsychosocial assessment
+     -Provided short-term supportive care planning upon discharge
+     -Provided information on social services and made referrals
+     -Reported to protective services and documented assessments
     
 #### EDUCATION
 >**Master’s in Social Work**  
