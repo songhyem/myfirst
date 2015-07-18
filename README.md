@@ -4,11 +4,14 @@ Seattle, WA 98103
 *(206) 639-4473*  
 chimera66@gmail.com
 
+
 ####OBJECTIVE 
 
 > ######To obtain a full time ADA Developers Academy trainee position.	
 
+
 ####WORK EXPERIENCE
+
 
 [![Northwest Hospital Geropsychiatric Center](https://github.com/songhyem/myfirst/blob/master/uw.png)](http://nwhospital.org/services/gero_inpatient.asp) 
 >**Senior Social Worker**  
@@ -27,12 +30,14 @@ Jyly 2014 - present | Seattle, WA
      -Mandatory elder abuse/neglect reporting  
      -Completing required documentation in a timely manner 
 
+
 [![Horizon Health](https://github.com/songhyem/myfirst/blob/master/horizon.jpg)](http://www.horizonhealth.com/index.php/consulting/)  
 >**Contracted Senior Social Worker**  
 July 2012 - June 2014 | Seattle, WA    
 
      -Job Descriptions are the same as above  
-    
+
+
 [![NAVOS Mental Health Solutions](https://github.com/songhyem/myfirst/blob/master/navos.png)](http://www.navos.org/outpatient-programs/older-adult) 
 >**Geriatric Mental Health Specialist**  
 Jyly 2008 - July 2013 | West Seattle, WA    
@@ -45,6 +50,7 @@ Jyly 2008 - July 2013 | West Seattle, WA
      -Provided crisis interventions for nursing home staff after hours and at weekends
      -Completed all routine and mandatory paperwork in a timely manner     
 
+
 [![Sparrow Senior Health Center](https://github.com/songhyem/myfirst/blob/master/sparrow.gif)](http://www.sparrow.org/seniorservices)
 >**Medical Social Worker Intern**    
 Aug 2007 - April 2008 | East Lansing, MI
@@ -54,6 +60,7 @@ Aug 2007 - April 2008 | East Lansing, MI
      -Offered advocacy for populations at risk and their informal caregivers  
      -Evaluated assessment tools at the clinic with survey, interview, and data analysis skills  
 
+
 [![Mclaren Greater Lansing](https://github.com/songhyem/myfirst/blob/master/mclaren.jpg)](http://www.mclaren.org/lansing/Lansing.aspx) 
 >**Medical Social Worker Intern**  
 Aug. 2007 - April. 2008 | Lansing, MI  
@@ -62,13 +69,15 @@ Aug. 2007 - April. 2008 | Lansing, MI
      -Provided short-term supportive care planning upon discharge
      -Provided information on social services and made referrals
      -Reported to protective services and documented assessments
-    
+
+
 #### EDUCATION
 >**Master’s in Social Work**  
 Michigan State University  
 
 >**Michigan State University**  
 Hankuk University of Foreign Studies, Seoul, Korea  
+
 
 #### LICENSURES AND CERTIFICATIONS
 >Licensed Independent Clinical Social Worker  
