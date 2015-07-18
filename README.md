@@ -12,7 +12,7 @@ chimera66@gmail.com
 
 >**Senior Social Worker**  
 [Northwest Hospital Geropsychiatric Center](http://nwhospital.org/services/gero_inpatient.asp)
-![UW Medicine](http://nwhospital.org/default.asp/)   
+![UW Medicine](http://github.com/songhyem/myfirst/uw.png)   
 Position started as contracted employee via Horizon Health; converted to one at Northwest Hospital in 7/14      
 Jyly 2014 - present | Seattle, WA    
 
@@ -29,12 +29,14 @@ Jyly 2014 - present | Seattle, WA
 
 >**Contracted Senior Social Worker**  
 [Horizon Health](http://www.horizonhealth.com/index.php/consulting/)  
+![Horizon Health](http://github.com/songhyem/myfirst/horizon.png)  
 July 2012 - June 2014 | Seattle, WA    
 
      -Job Descriptions are the same as above  
     
 >**Geriatric Mental Health Specialist**  
 [NAVOS Mental Health Solutions](http://www.navos.org/outpatient-programs/older-adult)    
+![NAVOS Mental Health Solutions](http://github.com/songhyem/myfirst/navos.png)  
 Jyly 2008 - July 2013 | West Seattle, WA    
 
      -Completed comprehensive biopsychosocial Assessment    
@@ -46,7 +48,8 @@ Jyly 2008 - July 2013 | West Seattle, WA
      -Completed all routine and mandatory paperwork in a timely manner     
 
 >**Medical Social Worker Intern**    
-[Sparrow Senior Health Center](http://www.sparrow.org/seniorservices)       
+[Sparrow Senior Health Center](http://www.sparrow.org/seniorservices)
+![Sparrow Senior Health Center](http://github.com/songhyem/myfirst/sparrow.png)  
 Aug 2007 - April 2008 | East Lansing, MI
 
      -Provided geriatric care needs assessments  
@@ -55,7 +58,8 @@ Aug 2007 - April 2008 | East Lansing, MI
      -Evaluated assessment tools at the clinic with survey, interview, and data analysis skills  
 
 >**Medical Social Worker Intern**  
-[McLaren Greater Lansing](http://www.mclaren.org/lansing/Lansing.aspx)      
+[McLaren Greater Lansing](http://www.mclaren.org/lansing/Lansing.aspx)  
+![Mclaren Greater Lansing](http://github.com/songhyem/myfirst/mclaren.png)  
 Aug. 2007 - April. 2008 | Lansing, MI  
 
      -Completed biopsychosocial assessment
